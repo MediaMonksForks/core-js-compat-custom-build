@@ -1459,11 +1459,9 @@
     "ios": "10.0"
   },
   "es.regexp.exec": {
-    "ie": "9",
     "chrome": "26",
     "firefox": "4",
     "safari": "8.0",
-    "edge": "12",
     "opera": "16",
     "node": "0.12",
     "samsung": "2.1",
