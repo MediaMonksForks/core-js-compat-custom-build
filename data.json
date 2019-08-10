@@ -1469,6 +1469,17 @@
     "electron": "0.20",
     "ios": "9.0"
   },
+  "es.regexp.test": {
+    "chrome": "26",
+    "firefox": "4",
+    "safari": "8.0",
+    "opera": "16",
+    "node": "0.12",
+    "samsung": "2.1",
+    "android": "4.4",
+    "electron": "0.20",
+    "ios": "9.0"
+  },
   "es.regexp.flags": {
     "chrome": "49",
     "firefox": "37",

@@ -132,6 +132,7 @@
     "es.reflect.set-prototype-of",
     "es.regexp.constructor",
     "es.regexp.exec",
+    "es.regexp.test",
     "es.regexp.flags",
     "es.regexp.sticky",
     "es.regexp.to-string",
@@ -721,6 +722,7 @@
     "es.reflect.set-prototype-of",
     "es.regexp.constructor",
     "es.regexp.exec",
+    "es.regexp.test",
     "es.regexp.flags",
     "es.regexp.sticky",
     "es.regexp.to-string",
@@ -1248,6 +1250,7 @@
   "core-js/es/regexp": [
     "es.regexp.constructor",
     "es.regexp.exec",
+    "es.regexp.test",
     "es.regexp.flags",
     "es.regexp.sticky",
     "es.regexp.to-string",
@@ -2496,6 +2499,7 @@
     "es.reflect.set-prototype-of",
     "es.regexp.constructor",
     "es.regexp.exec",
+    "es.regexp.test",
     "es.regexp.flags",
     "es.regexp.sticky",
     "es.regexp.to-string",
@@ -3335,6 +3339,7 @@
   "core-js/features/regexp": [
     "es.regexp.constructor",
     "es.regexp.exec",
+    "es.regexp.test",
     "es.regexp.flags",
     "es.regexp.sticky",
     "es.regexp.to-string",
@@ -4935,6 +4940,7 @@
     "es.reflect.set-prototype-of",
     "es.regexp.constructor",
     "es.regexp.exec",
+    "es.regexp.test",
     "es.regexp.flags",
     "es.regexp.sticky",
     "es.regexp.to-string",
@@ -5477,6 +5483,7 @@
   "core-js/stable/regexp": [
     "es.regexp.constructor",
     "es.regexp.exec",
+    "es.regexp.test",
     "es.regexp.flags",
     "es.regexp.sticky",
     "es.regexp.to-string",
@@ -6992,6 +6999,9 @@
   ],
   "core-js/modules/es.regexp.sticky": [
     "es.regexp.sticky"
+  ],
+  "core-js/modules/es.regexp.test": [
+    "es.regexp.test"
   ],
   "core-js/modules/es.regexp.to-string": [
     "es.regexp.to-string"

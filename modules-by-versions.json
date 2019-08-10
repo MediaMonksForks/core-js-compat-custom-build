@@ -131,6 +131,7 @@
     "es.reflect.set-prototype-of",
     "es.regexp.constructor",
     "es.regexp.exec",
+    "es.regexp.test",
     "es.regexp.flags",
     "es.regexp.sticky",
     "es.regexp.to-string",
